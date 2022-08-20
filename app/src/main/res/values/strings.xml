@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lesson1_month3</string>
+    <string name="email">Введите email</string>
+    <string name="theme">Введите тему</string>
+    <string name="sms">Введите сообщение</string>
+    <string name="send">send</string>
+    <string name="compose">Compose</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="Theme">theme</string>
+    <string name="Sms">sms</string>
+</resources>
